@@ -18,3 +18,5 @@ https://arxiv.org/abs/2506.05573
 https://wgsxm.github.io/projects/partcrafter/
 
 ### 🖼 Output
+
+https://github.com/user-attachments/assets/e95738b6-20bf-4e78-9edd-760079cc2652

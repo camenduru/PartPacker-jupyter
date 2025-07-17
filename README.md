@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PartPacker-jupyter/blob/main/PartPacker_jupyter.ipynb) | PartPacker_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PartPacker-jupyter/blob/main/PartPacker_jupyter.ipynb) | PartPacker_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/wgsxm/PartCrafter

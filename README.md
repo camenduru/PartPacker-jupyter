@@ -9,13 +9,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PartPacker-jupyter/blob/main/PartPacker_jupyter.ipynb) | PartPacker_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
-https://github.com/wgsxm/PartCrafter
+https://github.com/NVlabs/PartPacker
 
 ### 📄 Paper
-https://arxiv.org/abs/2506.05573
+https://arxiv.org/abs/2506.09980
 
 ### 🌐 Page
-https://wgsxm.github.io/projects/partcrafter/
+https://research.nvidia.com/labs/dir/partpacker/
 
 ### 🖼 Output
 
